@@ -30,7 +30,5 @@ Pour installer et utiliser Snapchat :
 
 ## Utilisation
 
-Fournissez des instructions détaillées sur la manière d'utiliser le projet une fois qu'il est installé. Vous pouvez inclure des exemples de code ou des captures d'écran pour guider l'utilisateur. Par exemple :
-
 ```bash
 $ npm start
